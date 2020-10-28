@@ -108,7 +108,11 @@ yarn
 
 4. Run the app
 ```sh
-yarn start
+yarn android 
+```
+or
+```sh
+yarn ios 
 ```
 
 
