@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jotace1/GoRestaurant-mobile">
-    <img src="assets/Logo.png" alt="Logo"  height="50">
+    <img src="assets/Logo.png" alt="Logo"  height="100">
   </a>
 
   <h3 align="center">GoRestaurant</h3>
