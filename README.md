@@ -165,8 +165,7 @@ Project Link: [https://github.com/jotace1/GoRestaurant-mobile](https://github.co
 [stars-url]: https://github.com/jotace1/GoRestaurant-mobile/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jotace1/GoRestaurant-mobile.svg?style=flat-square
 [issues-url]: https://github.com/jotace1/GoRestaurant-mobile/issues
-[license-shield]: https://img.shields.io/github/license/jotace1/GoRestaurant-mobile.svg?style=flat-square
-[license-url]: https://github.com/jotace1/GoRestaurant-mobile/blob/master/LICENSE
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joaocsc/
 
